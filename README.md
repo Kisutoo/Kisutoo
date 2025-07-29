@@ -4,11 +4,11 @@
 </p>
 
 
-<h3 align="center">Bienvenue sur mon github !</h3>
+<h3 align="center">Bienvenue sur mon GitHub !</h3>
 
-- 🔭 Je travaille actuellement sur [Human Be Ink](https://github.com/Kisutoo/HumanBeInk)
+- 🔭 Je travaille en ce moment sur [Human Be Ink](https://github.com/Kisutoo/HumanBeInk)
 
-- 🌱 J'apprends actuellement **Symfony**
+- 🌱 J'apprends actuellemen **Symfony**
 
 - 📫 Me contacter **malk-om@outlook.fr**
 
