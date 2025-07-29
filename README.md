@@ -8,7 +8,7 @@
 
 - 🔭 Je travaille en ce moment sur [Human Be Ink](https://github.com/Kisutoo/HumanBeInk)
 
-- 🌱 J'apprends actuellemen **Symfony**
+- 🌱 J'apprends actuellement **Symfony**
 
 - 📫 Me contacter **malk-om@outlook.fr**
 
