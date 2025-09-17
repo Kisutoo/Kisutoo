@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dcb23576-e6ee-4e38-af62-aa78a39d907b" width="100%">
-</p>
-
-
 <h3 align="center">Bienvenue sur mon GitHub !</h3>
 
 - 🔭 Je travaille en ce moment sur [Human Be Ink](https://github.com/Kisutoo/HumanBeInk)
